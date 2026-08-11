@@ -1,0 +1,71 @@
+skill,category
+Python,Programming Languages
+Java,Programming Languages
+C++,Programming Languages
+C,Programming Languages
+JavaScript,Programming Languages
+TypeScript,Programming Languages
+SQL,Programming Languages
+R,Programming Languages
+Go,Programming Languages
+PHP,Programming Languages
+Pandas,Data Science
+NumPy,Data Science
+Matplotlib,Data Science
+Seaborn,Data Science
+Scikit-learn,Data Science
+Data Analysis,Data Science
+Data Visualization,Data Science
+Regression,Machine Learning
+Classification,Machine Learning
+Clustering,Machine Learning
+NLP,Machine Learning
+Natural Language Processing,Machine Learning
+Feature Engineering,Machine Learning
+Deep Learning,Machine Learning
+Computer Vision,Machine Learning
+TensorFlow,Machine Learning
+PyTorch,Machine Learning
+Keras,Machine Learning
+HTML,Web Development
+CSS,Web Development
+React,Web Development
+Angular,Web Development
+Vue,Web Development
+Node.js,Web Development
+Django,Web Development
+Flask,Web Development
+Streamlit,Web Development
+FastAPI,Web Development
+REST API,Web Development
+MySQL,Databases
+PostgreSQL,Databases
+MongoDB,Databases
+SQLite,Databases
+Oracle,Databases
+Redis,Databases
+AWS,Cloud Technologies
+Azure,Cloud Technologies
+Google Cloud,Cloud Technologies
+GCP,Cloud Technologies
+Git,DevOps
+GitHub,DevOps
+Docker,DevOps
+Kubernetes,DevOps
+CI/CD,DevOps
+Jenkins,DevOps
+Linux,DevOps
+Excel,Tools
+Power BI,Tools
+Tableau,Tools
+Jupyter,Tools
+VS Code,Tools
+Postman,Tools
+Communication,Soft Skills
+Teamwork,Soft Skills
+Leadership,Soft Skills
+Problem Solving,Soft Skills
+Time Management,Soft Skills
+Critical Thinking,Soft Skills
+Adaptability,Soft Skills
+Project Management,Soft Skills

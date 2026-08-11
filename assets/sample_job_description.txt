@@ -1,0 +1,22 @@
+Data Analyst - Job Description
+
+We are looking for a Data Analyst to join our team. The ideal candidate should have strong
+skills in Python, SQL, Pandas, and Machine Learning. Experience with Data Visualization
+tools and TensorFlow is a strong plus. Familiarity with cloud technologies such as AWS and
+containerization tools like Docker is required for this role. Knowledge of Git for version
+control is expected.
+
+Responsibilities:
+- Analyze large datasets to extract actionable business insights
+- Build and maintain machine learning models for predictive analytics
+- Create data visualizations and dashboards for stakeholders
+- Collaborate with cross-functional teams to define data requirements
+- Deploy models to cloud infrastructure (AWS)
+
+Requirements:
+- Bachelor's degree in Computer Science, IT, or related field
+- Proficiency in Python and SQL
+- Experience with Pandas, NumPy, and Machine Learning libraries
+- Familiarity with TensorFlow and Docker is a plus
+- Strong communication and teamwork skills
+- Ability to work independently and manage time effectively

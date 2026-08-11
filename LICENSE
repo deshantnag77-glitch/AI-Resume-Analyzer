@@ -1,0 +1,39 @@
+Proprietary License (Academic Project)
+
+Copyright (c) 2026 [Your Name]. All Rights Reserved.
+
+This software and associated documentation (the "Project") were developed as part of a
+B.Tech Information Technology Vocational Training (VT) submission.
+
+Unless you have received explicit prior written permission from the author, you may NOT:
+- Copy, reproduce, or redistribute this Project or any part of it
+- Modify or create derivative works based on this Project
+- Use this Project, in whole or in part, for commercial purposes
+- Sublicense, sell, rent, or lease this Project
+
+You MAY:
+- View the source code for academic evaluation purposes (e.g., VT examiners, project guides)
+- Reference this Project in academic reports with proper attribution to the author
+
+---
+
+NOTE ON LICENSE CHOICE
+
+This project uses a restrictive, all-rights-reserved license rather than a permissive
+open-source license (such as MIT or Apache 2.0) because the author has indicated an
+intention to keep the implementation proprietary, potentially for future intellectual
+property evaluation (see IP_DOCUMENTATION.md and ORIGINALITY.md).
+
+Choosing a restrictive license means:
+- Others cannot legally copy, modify, or redistribute the code without permission.
+- This preserves the author's ability to later pursue IP protection, commercialization,
+  or exclusive licensing, since the work has not been made freely available to the public.
+- The tradeoff is reduced visibility/collaboration compared to an open-source license —
+  this is a deliberate choice, not an oversight.
+
+If the author later decides to open-source part or all of the project, this LICENSE file
+should be replaced with the appropriate open-source license text (e.g., MIT, Apache-2.0)
+and the copyright header should be updated accordingly.
+
+This is an academic project. No warranty of any kind is provided. The author is not liable
+for any damages arising from the use of this software.

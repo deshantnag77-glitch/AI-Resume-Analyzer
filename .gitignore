@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.db
+*.sqlite
+*.sqlite3
+
+app_backup.py
+test_resume.txt

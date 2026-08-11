@@ -1,0 +1,24 @@
+John Doe
+Email: john.doe@example.com | Phone: +91 9876543210
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+Career Objective
+Motivated B.Tech IT student seeking a role as a Data Analyst, with a strong foundation in Python and data analysis.
+
+Education
+B.Tech in Information Technology, XYZ College, 2026, CGPA: 8.5
+
+Skills
+Python, SQL, Pandas, NumPy, Machine Learning, Data Visualization, Git
+
+Projects
+Student Performance Predictor: Built a machine learning model using Python and scikit-learn to predict student performance. Achieved 92% accuracy using regression techniques. Used Pandas for data cleaning.
+
+Internships
+Data Analyst Intern at ABC Corp, Summer 2025. Analyzed sales data and reduced report generation time by 30% using automated Python scripts.
+
+Certifications
+Google Data Analytics Certificate
+
+Achievements
+Won first prize in college hackathon, increased team efficiency by 20%.
